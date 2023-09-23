@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "kNN Classifier",
+            "type": "python",
+            "request": "launch",
+            "module": "knn_classifier",
+            "justMyCode": true
+        }
+    ]
+}
